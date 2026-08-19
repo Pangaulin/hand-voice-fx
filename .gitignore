@@ -6,6 +6,3 @@ __pycache__/
 # Environnements locaux
 .env
 *.local
-
-# Modèle (téléchargé via README ; optionnel : retirer cette ligne pour le versionner)
-models/
